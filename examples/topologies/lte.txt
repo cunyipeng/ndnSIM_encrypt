@@ -1,0 +1,29 @@
+router
+
+#name  city    latitude  longitude
+UE      NA      20        20
+eNB1    NA    	20        40
+eNB2    NA    	40        60
+eNB3    NA    	20        80
+MME     NA    	20        100
+SGW     NA    	40        100
+PGW     NA    	40        120
+Server  NA    	40        140
+
+link
+
+#x      y       capacity(kbps)  OSPF    Delay   MaxPackets
+UE     eNB1      1Mbps           1       50ms    200
+eNB1   eNB3      10Mbps          1       10ms    200
+eNB1   eNB2      10Mbps          1       10ms    200
+eNB2   eNB3      10Mbps          1       10ms    200
+eNB1   MME       10Mbps          1       10ms    200
+eNB3   MME       10Mbps          1       10ms    200
+eNB2   MME       10Mbps          1       10ms    200
+eNB1   SGW       10Mbps          1       10ms    200
+eNB3   SGW       10Mbps          1       10ms    200
+eNB2   SGW       10Mbps          1       10ms    200
+SGW    MME       100Mbps         1       5ms     2000
+SGW    PGW       100Mbps         1       5ms     2000
+PGW    Server    10Mbps          1       10ms    200
+
