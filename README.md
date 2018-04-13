@@ -27,3 +27,10 @@ version:
 
 For more information, including downloading and compilation instruction, please refer to
 http://ndnsim.net or documentation in `docs/` folder.
+
+# 实验效果图
+![](https://github.com/cunyipeng/ndnSIM_encrypt/1.jpg)
+
+![](https://github.com/cunyipeng/ndnSIM_encrypt/2.png)
+
+![](https://github.com/cunyipeng/ndnSIM_encrypt/3.png)
