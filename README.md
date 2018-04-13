@@ -28,9 +28,9 @@ version:
 For more information, including downloading and compilation instruction, please refer to
 http://ndnsim.net or documentation in `docs/` folder.
 
-# 实验效果图
-![](https://github.com/cunyipeng/ndnSIM_encrypt/1.jpg)
+# 在Ubantu14.04系统中的实验效果图
+![](https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/1.jpg)
 
-![](https://github.com/cunyipeng/ndnSIM_encrypt/2.png)
+![](https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/2.png)
 
-![](https://github.com/cunyipeng/ndnSIM_encrypt/3.png)
+![]https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/3.png)
