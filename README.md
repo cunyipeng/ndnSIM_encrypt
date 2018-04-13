@@ -33,4 +33,4 @@ http://ndnsim.net or documentation in `docs/` folder.
 
 ![](https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/2.png)
 
-![]https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/3.png)
+![](https://github.com/cunyipeng/ndnSIM_encrypt/blob/master/3.png)
